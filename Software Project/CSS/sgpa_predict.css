@@ -1,0 +1,51 @@
+.sgpa-section {
+    background-color: #d7fae2;
+    padding: 20px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.2); /* Adding shade effect */
+}
+.sgpa-section-heading {
+    color: #183b56;
+    font-family: "Roboto";
+    font-size: 28px;
+    font-weight: 700;
+}
+.sgpa-section-description {
+    color: #5a7184;
+    font-family: "Roboto";
+    font-size: 16px;
+}
+.sgpa-section-heading {
+    color: #183b56;
+    font-family: "Roboto";
+    font-size: 28px;
+    font-weight: 700;
+}
+
+.sgpa-heading{
+    color: #333;
+    font-weight: bold;
+}
+
+input[type="number"],
+input[type="text"],
+.sgpa-button{
+    padding: 8px;
+    border-radius: 4px;
+    border: 1px solid #ccc;
+    margin-bottom: 10px;
+}
+
+.sgpa-button1{
+    background-color: #4caf50;
+    color: white;
+    cursor: pointer;
+}
+
+#grades {
+    margin-bottom: 20px;
+}
+
+#result {
+    font-weight: bold;
+}
+

@@ -1,0 +1,44 @@
+.form-section {
+    font-family: Arial, sans-serif;
+    background-color: #fbfcac;
+    margin: 20px;
+    padding: 20px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.2); /* Adding shade effect */
+}
+.form-heading{
+    color: #333;
+    font-weight: bold;
+}
+
+textarea,
+input[type="text"],
+input[type="email"],
+.form-button {
+    padding: 8px;
+    border-radius: 4px;
+    border: 1px solid #ccc;
+    margin-bottom: 10px;
+}
+
+.form-button1{
+    background-color: #bdbf2a;
+    color: white;
+    cursor: pointer;
+}
+
+
+#feedbackForm {
+    margin-bottom: 20px;
+}
+
+.container.form-section {
+    padding: 0;
+}
+
+.form-section-heading {
+    color: #183b56;
+    font-family: "Roboto";
+    font-size: 28px;
+    font-weight: 700;
+    margin-bottom: 20px;
+}
